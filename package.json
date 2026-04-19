@@ -1,7 +1,7 @@
 {
-  "name": "shenqi-bot",
+  "name": "MANI-X-BUG",
   "version": "1.0.0",
-  "description": "Shénqí Nǚxiá - Telegram x WhatsApp Bot",
+  "description": "MANI X BUG - Telegram x WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
