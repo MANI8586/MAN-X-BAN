@@ -1,4 +1,4 @@
-const TelegramBot = require('8570484086:AAE9tif96tpCdxG3Lya3JOF_nDNGnluI088');
+const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 const path = require('path');
 const NodeCache = require('node-cache');
