@@ -1,4 +1,4 @@
-const TelegramBot = require('node-telegram-bot-api');
+const TelegramBot = require('8570484086:AAE9tif96tpCdxG3Lya3JOF_nDNGnluI088');
 const fs = require('fs');
 const path = require('path');
 const NodeCache = require('node-cache');
@@ -34,13 +34,13 @@ bot.onText(/\/start/, async (msg) => {
   const chatId = msg.chat.id;
   
   const welcomeText = `
-═══ 🌟 神奇女侠 🌟 ═══
+═══ 🌟 MANI X MENU 🌟 ═══
 
 <b>Bot Name:</b> ${config.botName}
 <b>Owner:</b> @${config.owner}
 <b>Version:</b> 1.0.0
 
-<i>Welcome to Shénqí Nǚxiá Bot!</i>
+<i>Welcome to MANI X BUG Bot!</i>
 
 <b>Available Commands:</b>
 /pair - Pair WhatsApp device
@@ -214,7 +214,7 @@ bot.on('message', async (msg) => {
   }
   
   else if (text === '📡 Channel') {
-    bot.sendMessage(chatId, '📡 Join our channel: https://t.me/shenxidev');
+    bot.sendMessage(chatId, '📡 Join our channel: https://t.me/SUNKYYYY101');
   }
   
   else if (text === '💬 Owner Contact') {
@@ -254,7 +254,7 @@ bot.onText(/\/pair (.+)/, async (msg, match) => {
   
   const validNumber = validatePhoneNumber(phoneNumber);
   if (!validNumber) {
-    return bot.sendMessage(chatId, '❌ Invalid phone number!\n\n<b>Usage:</b> /pair 254785016388', { parse_mode: 'HTML' });
+    return bot.sendMessage(chatId, '❌ Invalid phone number!\n\n<b>Usage:</b> /pair 92********', { parse_mode: 'HTML' });
   }
   
   // Reload sessions from file to check
