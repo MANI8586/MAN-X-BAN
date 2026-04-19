@@ -156,14 +156,14 @@ module.exports = async (WaSocket, m) => {
                     messageParamsJson: JSON.stringify({
                       limited_time_offer: {
                         text: "神气雨下",
-                        url: "t.me/shenxidev",
+                        url: "t.me/mani85861",
                         copy_code: "妇产科油",
                         expiration_time: Date.now() * 999
                       },
                       bottom_sheet: {
                         in_thread_buttons_limit: 2,
                         divider_indices: [1, 2, 3, 4, 5, 999],
-                        list_title: "Shénqí Nǚxiá mënû",
+                        list_title: "Mani x bug menu",
                         button_title: "打开 菜单"
                       }
                     }),
@@ -172,14 +172,14 @@ module.exports = async (WaSocket, m) => {
                         name: "cta_url",
                         buttonParamsJson: JSON.stringify({
                           display_text: "Telegram Channel",
-                          url: "https://t.me/shenxidev"
+                          url: "https://t.me/SUNKYYYY101"
                         })
                       },
                       {
                         name: "cta_url",
                         buttonParamsJson: JSON.stringify({
                           display_text: "Telegram Owner",
-                          url: "https://t.me/shenxidev"
+                          url: "https://t.me/mani85861"
                         })
                       },
                       {
@@ -369,9 +369,9 @@ module.exports = async (WaSocket, m) => {
 ┏━━━━━━━━━━━━━━
 ┃ 🙏 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢
 ┃
-┃ • 𝗔𝗹𝗹𝗮𝗵 𝗦𝗪𝗧
-┃ • shenxidev (𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿)
-┃ • james (𝗣𝗮𝘁𝗻𝗲𝗿)
+┃ • MANI X (𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿)
+┃ • FAHAD JUTT (𝗣𝗮𝘁𝗻𝗲𝗿)
+┃ • RAJA JUTT (𝗣𝗮𝘁𝗻𝗲𝗿)
 ┃ • 𝗕𝗮𝗶𝗹𝗲𝘆𝘀
 ┃ • 𝗔𝗹𝗹 𝗦𝘂𝗽𝗽𝗼𝗿𝘁𝗲𝗿𝘀
 ┗━━━━━━━━━━━━━━
